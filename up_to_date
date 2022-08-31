@@ -1,0 +1,7 @@
+git add .
+git commit -m 'comment'
+git checkout branchName
+git push
+git clone
+git status
+git branch -a
